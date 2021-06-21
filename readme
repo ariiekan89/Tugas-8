@@ -1,1 +1,0 @@
-Langkah Penguncian Table: MariaDB [bayupm_311810199]> lock table mahasiswa write;
